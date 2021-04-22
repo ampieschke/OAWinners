@@ -62,10 +62,21 @@
     max-width: 200px;
 }
 
-/* footer */
-footer{
-    background-color: black;
-    margin-top: 10px;
+body {
+    margin-bottom: 75px;
+  }
+
+/* ==FOOTER== */
+footer {
+    background-color: #80cbf1;
     color: white;
-}
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    height: 100px;
+
+  }
+  .navicon {
+    color: white;
+  }
 
