@@ -1,0 +1,1 @@
+A website for Outdoor Adventures to host information about their current contests and contest rules.
