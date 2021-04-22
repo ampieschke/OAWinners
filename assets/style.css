@@ -1,0 +1,71 @@
+
+
+
+/* Nav Elements */
+.navbar{
+    background-color: darkgrey !important;
+    border-bottom: solid white 2px;
+    padding-right: 30px;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.navbar-toggler-icon{
+    color: white !important;
+}
+
+.dropdown-menu{
+    background-color: darkgrey !important;
+    border: darkgrey !important;
+    border-bottom: solid white 2px;
+}
+.dropdown-item{
+    color: white !important;
+    text-align: center;
+}
+.dropdown-divider{
+    color: white !important;
+}
+
+
+/* Content */
+#header{
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.lead{
+    margin: 0px,50px;
+    padding:20px
+}
+
+#smlogo{
+    max-height: 60px;
+    padding-left: 20px;
+}
+
+.btn{
+    background-color: #80cbf1;
+    color:white;
+}
+
+
+#gallery{
+    margin-top: 50px;
+    padding: 10px;
+    background-color: lightgrey;
+}
+
+.winner{
+    max-width: 200px;
+}
+
+/* footer */
+footer{
+    background-color: black;
+    margin-top: 10px;
+    color: white;
+}
+
